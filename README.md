@@ -1,5 +1,5 @@
 <div align="center">
-    <img><img src="https://github.com/Adew1009/Adew1009/blob/main/cyber-awareness-challenge.jpg"><img height=20% width=40%
+    <img><img src="https://github.com/Adew1009/Adew1009/blob/main/cyber-awareness-challenge.jpg" height=20% width=40%
     <d / iv>
         
   # Andrew Dew
