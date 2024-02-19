@@ -34,8 +34,10 @@
   
 - 📫 The best way to reach me is at adew1009@gmail.com
 
-- ⚡ Fun fact: Python programming language was not named after the snake. It's author, Guido van Rossum, chose such a name for the language because he was a fan of the British comedy series “Monty Python’s Flying Circus”.
-
+- ⚡ Fun fact: Python programming language was not named after the snake. Its author, Guido van Rossum, chose such a name for the language because he was a fan of the British comedy series “Monty Python’s Flying Circus”.
+<div align="center">
+    <img><img src="https://github.com/Adew1009/Adew1009/blob/main/monty python.jpg" height=20% width=40%
+    <d / iv>
 <!---
 Adew1009/Adew1009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
