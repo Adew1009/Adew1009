@@ -31,9 +31,10 @@
 - 🌱 I’m currently learning full-stack development at Code Platoon and on track to graduate in mid-May.
   
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+  
+- 📫 The best way to reach me is at adew1009@gmail.com
 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Python programming language was not named after the snake. It's author, Guido van Rossum, chose such a name for the language because he was a fan of the British comedy series “Monty Python’s Flying Circus”.
 
 <!---
 Adew1009/Adew1009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
