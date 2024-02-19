@@ -23,6 +23,8 @@
               src="https://skillicons.dev/icons?i=css" alt="css icon" /></a>
       <a title="React" href="https://react.dev" target="blank"><img height="55" width="55"
               src="https://skillicons.dev/icons?i=react" alt="react icon" /></a>
+       <a title="Flask" href="https://flask.palletsprojects.com/en/3.0.x/" target="blank"><img height="55" width="55"
+              src="https://skillicons.dev/icons?i=flask" alt="flask icon" /></a>
   </div>
 - 👋 Hi, I’m Andrew Dew.  I'm a Green Beret Veteran transitioning into software development. I enjoy working on complex problem sets in a team environment.  I found coding in my career and decided to learn full-stack development at Code Platoon as I transition out of the military. 
 
