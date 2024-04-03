@@ -26,7 +26,9 @@
        <a title="Flask" href="https://flask.palletsprojects.com/en/3.0.x/" target="blank"><img height="55" width="55"
               src="https://skillicons.dev/icons?i=flask" alt="flask icon" /></a>
       <a title="Django" href="' target="blank"><img height="55" width="55"
-              src="https://skillicons.dev/icons?i=django" alt="flask icon" /></a>
+              src="https://skillicons.dev/icons?i=django" alt="django icon" /></a>
+      <a title="PostgreSQL" href="' target="blank"><img height="55" width="55"
+              src="https://skillicons.dev/icons?i=postgresql" alt="postgresql icon" /></a>
   </div>
 - 👋 Hi, I’m Andrew Dew.  I'm a Green Beret Veteran transitioning into software development. I enjoy working on complex problem sets in a team environment.  I found coding in my career and decided to learn full-stack development at Code Platoon as I transition out of the military. 
 
