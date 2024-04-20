@@ -36,7 +36,7 @@
   
 - 🌱 I’m currently learning full-stack development at Code Platoon and on track to graduate in mid-May.
   
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on volunteer coding project for charities or non-profits.
   
 - 📫 The best way to reach me is at adew1009@gmail.com
 
