@@ -30,13 +30,13 @@
       <a title="PostgreSQL" href="' target="blank"><img height="55" width="55"
               src="https://skillicons.dev/icons?i=postgresql" alt="postgresql icon" /></a>
   </div>
-- 👋 Hi, I’m Andrew Dew.  I'm a Green Beret Veteran transitioning into software development. I enjoy working on complex problem sets in a team environment.  I found coding in my career and decided to learn full-stack development at Code Platoon as I transition out of the military. 
+- 👋 Hi, I’m Andrew Dew.  I'm a Software Engineer and Green Beret Veteran. I enjoy working on complex problem sets in a team environment.  I found coding in my military career and decided to pivot careers and become a Full-Stack Software Engineer. I can't thank Code Platonn enough for helping me with that transition.
 
 - 👀 I’m interested in too many things to list! I love to travel, see the world, and experience other cultures.
   
 - 🌱 I’m currently learning full-stack development at Code Platoon and on track to graduate in mid-May.
   
-- 💞️ I’m looking to collaborate on volunteer coding project for charities or non-profits.
+- 💞️ I’m looking to collaborate on a volunteer coding project for charities or non-profits.
   
 - 📫 The best way to reach me is at adew1009@gmail.com
 
