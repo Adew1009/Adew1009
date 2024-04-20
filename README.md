@@ -3,7 +3,7 @@
     <d / iv>
         
   # Andrew Dew
-  ## Software Developer
+  ## Software Engineer
   ### Languages - Frameworks - Tools
   </div>
   <div align="center">
