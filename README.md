@@ -34,7 +34,7 @@
 
 - 👀 I’m interested in too many things to list! I love to travel, see the world, and experience other cultures.
   
-- 🌱 I’m currently learning full-stack development at Code Platoon and on track to graduate in mid-May.
+- 🌱 I’m currently working on Transparent Budget Decisions, a personal finance web app. <a href="https://transparent-budget-decisions.web.app/">Visit Transparent Budget Decisions</a>
   
 - 💞️ I’m looking to collaborate on a volunteer coding project for charities or non-profits.
   
