@@ -30,7 +30,7 @@
       <a title="PostgreSQL" href="' target="blank"><img height="55" width="55"
               src="https://skillicons.dev/icons?i=postgresql" alt="postgresql icon" /></a>
   </div>
-- 👋 Hi, I’m Andrew Dew.  I'm a Software Engineer and Green Beret Veteran. I enjoy working on complex problem sets in a team environment.  I found coding in my military career and decided to pivot careers and become a Full-Stack Software Engineer. I can't thank Code Platonn enough for helping me with that transition.
+- 👋 Hi, I’m Andrew Dew.  I'm a Software Engineer and Green Beret Veteran. I enjoy working on complex problem sets in a team environment.  I found coding in my military career and decided to pivot careers and become a Full-Stack Software Engineer. I can't thank Code Platoon enough for helping me with that transition.
 
 - 👀 I’m interested in too many things to list! I love to travel, see the world, and experience other cultures.
   
