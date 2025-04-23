@@ -22,8 +22,8 @@
   <a href="https://flask.palletsprojects.com" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" height="40"/></a>
   <a href="https://www.djangoproject.com" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="Django" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="40"/></a>
-  <a href="[https://www.postgresql.org](https://www.docker.com/)" target="_blank"><img src="(https://skillicons.dev/icons?i=docker)" alt="Docker" height="40"/></a>
-  <a href="https://kubernetes.io/" target="_blank"><img src="[https://skillicons.dev/icons?i=kubernetes)" alt="Kubernetes" height="40"/></a>
+  <a href="[https://www.postgresql.org](https://www.docker.com/)" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40"/></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="40"/></a>
 </div>
 
 ---
