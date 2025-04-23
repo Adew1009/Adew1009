@@ -12,6 +12,7 @@
 <div align="center">
   <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="40"/></a>
   <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/></a>
+  <a href="https://gitlab.com" target="_blank"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" height="40"/></a>
   <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="40"/></a>
@@ -21,6 +22,8 @@
   <a href="https://flask.palletsprojects.com" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" height="40"/></a>
   <a href="https://www.djangoproject.com" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="Django" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="40"/></a>
+  <a href="[https://www.postgresql.org](https://www.docker.com/)" target="_blank"><img src="(https://skillicons.dev/icons?i=docker)" alt="Docker" height="40"/></a>
+  <a href="https://kubernetes.io/" target="_blank"><img src="[https://skillicons.dev/icons?i=kubernetes)" alt="Kubernetes" height="40"/></a>
 </div>
 
 ---
