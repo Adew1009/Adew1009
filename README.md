@@ -1,50 +1,70 @@
 <div align="center">
-    <img><img src="https://github.com/Adew1009/Adew1009/blob/main/cyber-awareness-challenge.jpg" height=20% width=40%
-    <d / iv>
-        
-  # Andrew Dew
-  ## Software Engineer
-  ### Languages - Frameworks - Tools
-  </div>
-  <div align="center">
-      <a title="VS Code" href="https://code.visualstudio.com" target="blank"><img height="55" width="55"
-              src="https://skillicons.dev/icons?i=vscode" alt="VSCode icon" /></a>
-      <a title="GitHub" href="https://github.com" target="blank"><img height="55" width="55"
-              src="https://skillicons.dev/icons?i=github" alt="GitHub icon" /></a>
-      <a title="Git" href="https://git-scm.com" target="blank"><img height="55" width="55"
-              src="https://skillicons.dev/icons?i=git" alt="git icon" /></a>
-      <a title="Python" href="https://docs.python.org/3/" target="blank"><img height="55" width="55"
-              src="https://skillicons.dev/icons?i=python" alt="python icon" /></a>
-      <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img height="55"
-              width="55" src="https://skillicons.dev/icons?i=javascript" alt="javascript icon" /></a>
-      <a title="HTML" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="blank"><img height="55" width="55"
-              src="https://skillicons.dev/icons?i=html" alt="HTML icon" /></a>
-      <a title="CSS" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img height="55" width="55"
-              src="https://skillicons.dev/icons?i=css" alt="css icon" /></a>
-      <a title="React" href="https://react.dev" target="blank"><img height="55" width="55"
-              src="https://skillicons.dev/icons?i=react" alt="react icon" /></a>
-       <a title="Flask" href="https://flask.palletsprojects.com/en/3.0.x/" target="blank"><img height="55" width="55"
-              src="https://skillicons.dev/icons?i=flask" alt="flask icon" /></a>
-      <a title="Django" href="' target="blank"><img height="55" width="55"
-              src="https://skillicons.dev/icons?i=django" alt="django icon" /></a>
-      <a title="PostgreSQL" href="' target="blank"><img height="55" width="55"
-              src="https://skillicons.dev/icons?i=postgresql" alt="postgresql icon" /></a>
-  </div>
-- 👋 Hi, I’m Andrew Dew.  I'm a Software Engineer and Green Beret Veteran. I enjoy working on complex problem sets in a team environment.  I found coding in my military career and decided to pivot careers and become a Full-Stack Software Engineer. I can't thank Code Platoon enough for helping me with that transition.
+  <img src="https://github.com/Adew1009/Adew1009/blob/main/cyber-awareness-challenge.jpg" alt="Cyber Awareness Challenge" width="400"/>
+</div>
 
-- 👀 I’m interested in too many things to list! I love to travel, see the world, and experience other cultures.
-  
-- 🌱 I’m currently working on Transparent Budget Decisions, a personal finance web app. <a href="https://transparent-budget-decisions.web.app/">Visit Transparent Budget Decisions</a>
-  
-- 💞️ I’m looking to collaborate on a volunteer coding project for charities or non-profits.
-  
-- 📫 The best way to reach me is at adew1009@gmail.com
+# Andrew Dew
+## Software Engineer | Special Forces Veteran | Full-Stack Developer
 
-- ⚡ Fun fact: Python programming language was not named after the snake. Its author, Guido van Rossum, chose such a name for the language because he was a fan of the British comedy series “Monty Python’s Flying Circus”.
+---
+
+### 🛠️ Technical Skills
+
 <div align="center">
-    <img><img src="https://github.com/Adew1009/Adew1009/blob/main/monty%20python.jpeg" height=10% width=20%
-    <d / iv>
-<!---
-Adew1009/Adew1009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <a href="https://code.visualstudio.com" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" height="40"/></a>
+  <a href="https://github.com" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="40"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" height="40"/></a>
+  <a href="https://reactjs.org" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" height="40"/></a>
+  <a href="https://flask.palletsprojects.com" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" height="40"/></a>
+  <a href="https://www.djangoproject.com" target="_blank"><img src="https://skillicons.dev/icons?i=django" alt="Django" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" height="40"/></a>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I am a dedicated Software Engineer with a background as a U.S. Army Special Forces veteran. My journey into software development began during my military service, where I discovered a passion for coding. This led me to transition into a full-stack developer role, where I now specialize in building scalable web applications using modern technologies.
+
+---
+
+### 💼 Professional Experience
+
+**Software Engineer at Greyhive**
+
+- Developed and maintained web applications using React, Django, and PostgreSQL.
+- Collaborated with cross-functional teams to design and implement new features.
+- Ensured code quality through regular code reviews and testing.
+
+**Graduate of Code Platoon**
+
+- Completed an intensive full-stack software engineering bootcamp focused on Python, JavaScript, and modern web frameworks.
+- Built several full-stack projects, including a personal finance web app.
+
+---
+
+### 🚀 Projects
+
+**Transparent Budget Decisions**
+
+A personal finance web application designed to help users make informed budgeting decisions.
+
+🔗 [Visit Transparent Budget Decisions](https://transparent-budget-decisions.web.app/)
+
+---
+
+### 🤝 Let's Connect
+
+- 📧 Email: adew1009@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/andrew-dew](https://www.linkedin.com/in/andrew-dew/)
+- 🐙 GitHub: [github.com/Adew1009](https://github.com/Adew1009)
+
+---
+
+<div align="center">
+  <img src="https://github.com/Adew1009/Adew1009/blob/main/monty%20python.jpeg" alt="Monty Python" width="200"/>
+  <p><em>Fun Fact: The Python programming language was named after the British comedy series “Monty Python’s Flying Circus”.</em></p>
+</div>
